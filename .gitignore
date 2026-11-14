@@ -1,0 +1,18 @@
+# Compiled Java class files (sirf source code .java upload hona chahiye)
+*.class
+
+# IntelliJ IDEA project files (har dev ka apna setup hota hai)
+.idea/
+*.iml
+
+# Build directories (IntelliJ jo output generate karta hai)
+out/
+build/
+
+# Mac / Windows system hidden files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
